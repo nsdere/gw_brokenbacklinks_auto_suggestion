@@ -1,0 +1,33 @@
+Top Keyword: love sac
+Lovesac - Modern Furniture | Modular Sectionals & Bean Bag Chairs
+
+Sactionals
+Customizable Sectional Couches
+The World’s Most Adaptable Couch™
+Sactionals are specially designed to adapt to your changing needs and evolving tastes.
+
+Sacs
+Premium Bean Bag Style Seating
+The World’s Most Comfortable Seat™
+With 5 sizes and hundreds of Covers to choose from, there’s a Sac for every space and style.
+
+StealthTech
+Premium Sound & Technology Upgrades
+Invisible is Beautiful
+StealthTech® features premium technology, elegantly embedded inside the endlessly adaptable Sactionals platform.
+
+Sactionals offer endless adaptability for whatever life brings.
+Washable
+Rearrangeable
+Changeable
+Guaranteed for Life
+60-Day Home Trial
+Free Shipping
+
+With our proprietary Durafoam fill, Sacs provide comfort for life.
+Washable
+Changeable
+For Any Space
+Guaranteed for Life
+60-Day Home Trial
+Free Shipping

@@ -1,0 +1,1 @@
+Your search term has not reached the minimum of 2 characters.

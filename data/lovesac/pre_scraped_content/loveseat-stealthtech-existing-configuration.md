@@ -1,0 +1,2 @@
+Top Keyword: lovesac harman kardon
+The Sactionals StealthTech Sound + Charge System combines premium surround sound by Harman Kardon and integrated wireless charging completely hidden from view. The unique proximity and placement of speakers, combined with patented tuning technology for passing sound through fabric and upholstery, delivers an unparalleled audio experience. And, with wireless charging capabilities available where it's needed most, remaining connected is never a problem. When it comes to technology, invisible is beautiful.

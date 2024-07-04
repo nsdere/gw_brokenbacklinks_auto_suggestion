@@ -1,0 +1,11 @@
+Lovesac cares about all our customers and is committed to facilitating and improving the accessibility and usability of its Website, www.lovesac.com (the "Website"), ensuring that our Website services and content are accessible to persons with disabilities including, but not limited to users of screen reader technology. To accomplish this, Lovesac has partnered with UsableNet Inc ("UsableNet"), a leading web accessibility consultant, by implementing its technology that will enable and maintain accessibility in-line with the Web Content Accessibility Guidelines (WCAG), which also brings the Website into conformance with the Americans with Disabilities Act of 1990 in the United States, as well as similar regulations in Canada, the United Kingdom, the European Union, and elsewhere around the world. The initial accessibility work has been completed (where testing has been performed both with automatic accessibility testing tools and users of screen readers to identify issues) and remediation has been applied. UsableNet will continue to monitor the Website and make accessibility updates when needed. Remediations will be applied to the Website via an easy to find "Enable Accessibility" link to ensure equal access to all features and functions.
+
+**Disclaimer**
+
+Please be aware that our efforts to maintain accessibility and usability are ongoing. While we strive to make the Website as accessible as possible some issues may be encountered by different assistive technology as the range of assistive technology is wide and varied. We appreciate your understanding.
+
+**Contact Us**
+
+If you have specific questions or concerns about the accessibility of any web page on the Website, then please contact us by e-mail at customerlove@lovesac.com or by phone at 1 (888) 636-1223.
+
+If you do encounter an accessibility issue, then please be sure to specify the web page and nature of the issue, and we will make all reasonable efforts to make that page, or the information contained therein accessible for you. Thanks for visiting.

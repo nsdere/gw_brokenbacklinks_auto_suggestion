@@ -42,7 +42,8 @@ class Utils:
         with open(save_file_name, "wb") as f:
             pickle.dump(file_names, f)
 
-    def search_for_similar(self, query, website, k, top_pages_path):
+    def search_for_similar(self, query, website, k):
+    #def search_for_similar(self, query, website, k, top_pages_path):
         query_embedding = self.embed_documents(query)
         index_name = "data/" + website + ".faiss"
         file_names_path = "data/" + website + ".pkl"
@@ -66,13 +67,13 @@ class Utils:
             'Index': results_indices
         })
 
-        df_csv = pd.read_csv(top_pages_path)
-        merged_df = pd.merge(df, df_csv,left_on= 'File Name', right_on='file_name_with_extension', how='left')
-        merged_df.sort_values(by='Distance', ascending=True, inplace=True)
-        merged_df.drop_duplicates(subset=['File Name'], keep='first', inplace=True)
+        #df_csv = pd.read_csv(top_pages_path)
+        #merged_df = pd.merge(df, df_csv,left_on= 'File Name', right_on='file_name_with_extension', how='left')
+        #merged_df.sort_values(by='Distance', ascending=True, inplace=True)
+        #merged_df.drop_duplicates(subset=['File Name'], keep='first', inplace=True)
         #merged_df.drop(columns=['Unnamed: 3', 'Unnamed: 4', 'file_name'], inplace=True)
-        return merged_df
-    
+        #return merged_df
+        return df
 
     def json_file_handler(file_path, mode, json_data=None):
         """
